@@ -1,0 +1,34 @@
+<div class="rowConsulta">
+    <div class="col-6">
+      <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Type to filter">
+    </div>
+   </div>
+     
+    
+    <table class="table table-striped" *ngIf='productores && productores.length'>
+      <thead>
+        <tr>
+          <th scope="col">No.</th>
+          <th scope="col">Cedula Productor</th>
+          <th scope="col">Nombre</th>
+          <th scope="col">Codigo Productor </th>
+          <th scope="col">Numero telefonico</th>
+          <th scope="col">Afiliacion</th>
+          <th scope="col">Actividad</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let productor of productores; index as i">
+          <th scope="row">{{ i + 1 }}</th>
+          <td>{{productor.cedula}}</td>
+          <td>{{productor.nombre}}</td>
+          <td>{{productor.codigoProductor}}</td>
+          <td>{{productor.numeroTelefonico}}</td>
+          <td>{{productor.afiliacion}}</td>
+          <td>{{productor.actividad}}</td>
+          <td> 
+        </td>
+        </tr>
+      </tbody>
+    </table>
+  

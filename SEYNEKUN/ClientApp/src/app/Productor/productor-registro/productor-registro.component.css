@@ -1,0 +1,193 @@
+.bs-stepper-circle{
+   background : rgb(71, 165, 42);
+}
+.bs-stepper-label{
+   color: rgb(71, 165, 42);
+}
+
+.bs-stepper-circle:hover:not(.active) {
+   background : rgb(61, 233, 9);
+}
+.bs-stepper-label:hover:not(.active) {
+   color: rgb(61, 233, 9);
+}
+.caja{
+   
+   
+   background: rgba(234, 245, 232, 0.7);
+   border: none;
+   outline: none;
+   border-bottom: 2px solid rgb(51, 235, 5) ;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-bottom: 20px;
+   border-radius: 2px;
+   width: 400px;
+   position: absolute;
+   transform: translate(0%, 20%);
+}
+body{
+   background:rgba(193, 241, 174, 0.7);
+   background-repeat: no-repeat;
+   position: relative;
+   width: 100%;
+   margin: 20px;
+   padding: 5% 5% 5% 5%; 
+   background-size: 100% 100%;
+   max-width: 100%;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   background-attachment: fixed;
+
+}
+.form-tittle{
+   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:white;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+span{
+
+  color: lightgoldenrodyellow;
+  font-weight: bold;
+}
+
+.form-label{
+  width: 100%;
+  display: block;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  
+}
+.form-control{
+  
+  position: relative;
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  outline: none;
+  border-bottom: 2px solid rgb(152, 230, 75) ;
+  color: rgb(14, 14, 14);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  width: 400px;
+}
+.text-center{
+   text-align: center;
+
+}
+.mensaje-error{
+  font-size: 17px ;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  
+}
+
+/*productores*/
+
+/* #NombreProductoresLabel{
+   position:relative;
+   transform: translate(250%, -200%);
+}
+#NombreProductores{
+   position:relative;
+   transform: translate(110%, -108%);
+}
+#CodigoProductoresLabel{
+   position:relative;
+   transform: translate(526%, -580%);
+}
+#CodigoProductores{
+   position:relative;
+   transform: translate(220%, -348%);
+}
+#NumeroLabel{
+  position:relative;
+  transform: translate(0%, -400%);
+}
+#Numero{
+  position:relative;
+  transform: translate(0%, -218%);
+}
+#AfiliacionLabel{
+  position:relative;
+  transform: translate(252%, -779%);
+}
+#Afiliacion{
+  position:relative;
+  transform: translate(110%, -456%);
+}
+#ActividadLabel{
+  position:relative;
+  transform: translate(317%, -1153%);
+}
+#Actividad{
+  position:relative;
+  transform: translate(220%, -695%);
+} */
+/*predios*/
+/* #NombrePredioLabel{
+   position:relative;
+   transform: translate(246%, -200%);
+}
+#NombrePredio{
+   position:relative;
+   transform: translate(110%, -108%);
+}
+#CodigoICALabel{
+   position:relative;
+   transform: translate(646%, -580%);
+}
+#CodigoICA{
+   position:relative;
+   transform: translate(220%, -348%);
+}
+#MunicipioLabel{
+   position:relative;
+   transform: translate(0%, -400%);
+}
+#Municipio{
+   position:relative;
+   transform: translate(0%, -218%);
+}
+#VeredaLabel{
+   position:relative;
+   transform: translate(678%, -790%);
+}
+#Vereda{
+   position:relative;
+   transform: translate(110%, -458%);
+}
+#btnnext{
+    background-color: rgb(71, 165, 42);
+    border-color:rgb(71, 165, 42); 
+   position: relative;
+   transform: translate(820%, -600%);
+}
+#btnnext-2{
+  background-color: rgb(71, 165, 42);
+  border-color:rgb(71, 165, 42); 
+ position: relative;
+ transform: translate(820%, -350%);
+}
+#btnsubmit{
+   background-color: rgb(71, 165, 42);
+   border-color:rgb(71, 165, 42);
+}
+ */
+ #btnnext{
+  background-color: rgb(71, 165, 42);
+  border-color:rgb(71, 165, 42); 
+ 
+}
+#btnnext-2{
+background-color: rgb(71, 165, 42);
+border-color:rgb(71, 165, 42); 
+
+}

@@ -1,0 +1,136 @@
+
+body{
+    background: url("assets/ImagenesCarousel/seynekun-sierra-nevada.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    margin: 20px;
+    padding: 5% 5% 5% 5%; 
+    background-size: 100% 100%;
+    max-width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-attachment: fixed;
+   
+}
+
+.form-tittle{
+    
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.container {
+    background: rgba(0, 0, 0, .6);
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 15px 45px;
+    border-radius: 3px;
+    
+}
+span{
+
+    color: lightgoldenrodyellow;
+    font-weight: bold;
+}
+
+.form-label{
+    width: 100%;
+    display: block;
+    color: rgb(252, 252, 252);
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    
+}
+ .form-control{
+    
+    position: relative;
+    background: rgba(0, 0, 0, .7);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(249, 250, 248) ;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    width: 500px;
+ }
+ .text-center{
+     text-align: center;
+
+ }
+ .mensaje-error{
+    font-size: 17px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+ 
+ 
+ /*CSS DE CONSULTA PANELA*/
+ .rowConsulta{
+    margin: 100px 30px;
+   padding: 0;
+ }
+ .table {
+    margin: 10px auto;
+    color: black;
+    background-color:rgb(228, 204, 204);
+    font-family: Roboto ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  /*CSS DE Home*/
+.containerMenu{
+    margin: 50px ;
+}
+
+/*CSS DE Home*/
+.slider{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.slider ul{
+    display: flex;
+    padding: 0%;
+    width: 400%;
+    animation: cambio 15s infinite alternate;
+    
+}
+.slider li{
+    width: 100%;
+    list-style: none;
+}
+.slider img{
+    width: 100%;
+}
+@keyframes cambio{
+    0%{margin-left: 0;}
+    20%{margin-left: 0;}
+
+    25%{margin-left: -100%;}
+    45%{margin-left: -100%;}
+
+    50%{margin-left: -200%;}
+    70%{margin-left: -200%;}
+
+    75%{margin-left: -300%;}
+    100%{margin-left: -300%;}
+}
+.contenedorMenu{
+    padding: 10px 0px 0px 0px;
+    margin-right: 70;
+}
+
+/* CSS DELL HOME PARTE DEL PARRAFO*/
+.parrafo{
+    padding-top: 50px;
+}
+/*CSS DE PARRAFO AL LADO DE LA IMAGEN*/
+

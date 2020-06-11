@@ -1,0 +1,11 @@
+.rowConsulta{
+    margin: 100px 30px;
+   padding: 0;
+ }
+ .table {
+    margin: 10px auto;
+    color: black;
+    background-color:rgb(228, 204, 204);
+    font-family: Roboto ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(src\assets\ImagenesCarousel\seynekun-sierra-nevada2.jpg) no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+  
+}
+
+.login-box {
+  width: 320px;
+  height: 420px;
+  background:rgba(53, 27, 5, 0.7);
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, 20%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.login-box .avatar {
+  width: 120px;
+  height: 100px;
+  border-radius: 60%;
+  position: absolute;
+  top: -50px;
+  left: calc(45% - 50px);
+}
+
+.login-box h2 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.login-box label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  display: block;
+}
+
+.login-box input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.login-box input[type="userName"], .login-box input[type="password"] {
+  border: none;
+  background:rgba(185, 117, 62, 0.7);
+  border-bottom: 2px solid #fff;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+ #botonInicio {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: rgba(7, 77, 13, 0.7);
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+  position: relative;
+  left: calc(45% - 30px);
+}
+
+ #botonInicio:hover {
+  cursor: pointer;
+  background: #ff9307;
+  color: #000;
+}
+
+.login-box a {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: darkgrey;
+}
+
+.login-box a:hover {
+  color: #fff;
+}

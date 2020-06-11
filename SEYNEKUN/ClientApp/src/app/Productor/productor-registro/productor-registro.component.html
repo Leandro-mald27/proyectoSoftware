@@ -1,0 +1,144 @@
+<body>
+  
+
+  <div class="container">
+    <div id="stepper1" class="bs-stepper">
+      <div class="bs-stepper-header">
+        <div class="step" data-target="#test-l-1">
+          <button class="step-trigger">
+            <span class="bs-stepper-circle">1</span>
+            <span class="bs-stepper-label">Registro De Productores</span>
+          </button>
+        </div>
+        <div class="line"></div>
+        <div class="step" data-target="#test-l-2">
+          <button class="step-trigger">
+            <span class="bs-stepper-circle">2</span>
+            <span class="bs-stepper-label">Registro De Predios</span>
+          </button>
+        </div>
+        
+      </div>
+      
+      <div class="bs-stepper-content">
+        
+            <form (ngSubmit)="onSubmit()" >
+          <form [formGroup]="formGroup " class=" ">
+          
+               <div id="test-l-1" class="content">
+            
+              <div class="form-group  ">
+                <label for="Cedula" class="form-label">Cedula</label>
+                
+                <input id="cedula" type="text" name="cedula"  formControlName="cedula"class="form-control"
+                [ngClass]="{ 'is-invalid':  control.cedula.errors }"/>
+                <div *ngIf=" control.cedula.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control.cedula.errors.required">*La Identificación es requerida*</div>
+                </div>
+              </div>
+              <div class="form-group ">
+              <label for="Nombre" class="form-label">Nombre</label>
+              <input id="nombre"  type="text" name="nombre" formControlName="nombre" class="form-control"
+              [ngClass]="{ 'is-invalid':  control.nombre.errors }"/>
+              <div *ngIf=" control.nombre.errors" class="invalid-feedback">
+                  <div class="mensaje-error" *ngIf="control.nombre.errors.required">*El nombre es requerido*</div>
+              </div>
+             </div>
+              <div class="form-group ">
+                <label for="CodigoProductor" class="form-label">Codigo Productor</label>
+                
+                <input id="codigoProductor" type="text" name="codigoProductor " formControlName="codigoProductor" class="form-control"
+                [ngClass]="{ 'is-invalid':  control.codigoProductor.errors }"/>
+                <div *ngIf=" control.codigoProductor.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control.codigoProductor.errors.required">*Campo requerido*</div>
+                </div>
+              </div>
+              <div class="form-group   ">
+                <label for="numeroTelefonico" class="form-label">Numero telefonico</label>
+                
+                <input id="numeroTelefonico" type="text" name="numeroTelefonico" formControlName="numeroTelefonico" class="form-control"
+                [ngClass]="{ 'is-invalid':  control.numeroTelefonico.errors }"/>
+                <div *ngIf=" control.numeroTelefonico.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control.numeroTelefonico.errors.required">*Campo requerido*</div>
+                </div>
+              </div>
+              <div class="form-group   ">
+                <label for="afiliacion" class="form-label">Afiliacion</label>
+                
+                <input id="afiliacion" type="text" name="afiliacion" formControlName="afiliacion" class="form-control"
+                [ngClass]="{ 'is-invalid':  control.afiliacion.errors }"/>
+                <div *ngIf=" control.afiliacion.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control.afiliacion.errors.required">*Campo requerido*</div>
+                </div>
+              </div>
+              <div class="form-group   ">
+                <label for="actividad" class="actividad">Actividad</label>
+                
+                <input id="actividad" type="text" name="actividad" formControlName="actividad" class="form-control"
+                [ngClass]="{ 'is-invalid':  control.actividad.errors }"/>
+                <div *ngIf=" control.actividad.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control.actividad.errors.required">*Campo requerido*</div>
+                </div>
+              
+           
+            <button id="btnnext" (click)="next()" class="btn btn-primary">Next</button>
+           </div>
+            </div>
+          </form>
+        </form>
+        <form (ngSubmit)="onSubmit2()" >
+          <form [formGroup]="formGroup2" class=" ">
+             <div id="test-l-2" class="content">
+            <div class="form-group">
+              <label for="codigo" class="codigo">Codigo</label>
+                
+                <input id="codigo" type="text" name="codigo" formControlName="codigo" class="form-control"
+                [ngClass]="{ 'is-invalid':  control2.codigo.errors }"/>
+                <div *ngIf=" control2.codigo.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control2.codigo.errors.required">*Campo requerido*</div>
+                </div>
+            </div>
+            <div class="form-group">
+              <label for="nombre" class="nombre">Nombre</label>
+                
+                <input id="nombre" type="text" name="nombre" formControlName="nombre" class="form-control"
+                [ngClass]="{ 'is-invalid':  control2.nombre.errors }"/>
+                <div *ngIf=" control2.nombre.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control2.nombre.errors.required">*Campo requerido*</div>
+                </div>
+            </div>
+            <div class="form-group">
+              <label for="codigoICA" class="codigoICA">Codigo ICA</label>
+                <input id="codigoICA" type="text" name="codigoICA" formControlName="codigoICA" class="form-control"
+                [ngClass]="{ 'is-invalid':  control2.codigoICA.errors }"/>
+                <div *ngIf=" control2.codigoICA.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control2.codigoICA.errors.required">*Campo requerido*</div>
+                </div>
+            </div>
+            <div class="form-group">
+              <label for="municipio" class="municipio">Municipio</label>
+                <input id="municipio" type="text" name="municipio" formControlName="municipio" class="form-control"
+                [ngClass]="{ 'is-invalid':  control2.municipio.errors }"/>
+                <div *ngIf=" control2.municipio.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control2.municipio.errors.required">*Campo requerido*</div>
+                </div>
+            </div>
+            <div class="form-group">
+              <label for="vereda" class="vereda">Vereda</label>
+                <input id="vereda" type="text" name="vereda" formControlName="vereda" class="form-control"
+                [ngClass]="{ 'is-invalid':  control2.vereda.errors }"/>
+                <div *ngIf=" control2.vereda.errors" class="invalid-feedback">
+                    <div class="mensaje-error" *ngIf="control2.vereda.errors.required">*Campo requerido*</div>
+                </div>
+            </div>
+            <button id="btnsubmit" type="submit" (click)="addGeneral()"class="btn btn-primary mt-5">Registrar Productores</button>
+            <button id="generarPdf" type="submit" (click)="generatePdf()"class="btn btn-primary mt-5">Generar Pdf</button> 
+           </div>
+          </form>
+        </form>
+          
+      
+    </div>
+    </div>
+      </div>
+  </body>

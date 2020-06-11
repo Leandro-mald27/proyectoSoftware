@@ -1,0 +1,103 @@
+
+<header>
+
+  <nav
+  class="navbar-1 navbar-fixed-top navbar-expand-sm navbar-toggleable-sm navbar  caja-shadow mb-3 "
+>
+  <div class="container">
+    
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target=".navbar-collapse"
+      aria-label="Toggle navigation"
+      [attr.aria-expanded]="isExpanded"
+      (click)="toggle()"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div
+      class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse"
+      [ngClass]="{ show: isExpanded }"
+    >
+      <ul class="navbar-nav flex-grow">
+        <li
+        class="nav-item"
+        [routerLinkActive]="['link-active']"
+        [routerLinkActiveOptions]="{ exact: true }"
+      >
+       <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+                    <a class="nav-item nav-link" (click)="logout()">Cerrar Sesion</a>
+                  </li>
+        
+        <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="!currentUser">
+          <a class="nav-link " [routerLink]="['/loggin']"
+            >ACCEDER</a
+          >
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <p ALIGN=center>
+    <img src="assets\imagenes\barra2.jpg" alt="barra2">
+  </p>
+  <nav
+    class="navbar navbar-fixed-top navbar-expand-sm navbar-toggleable-sm navbar   box-shadow mb-3 "
+  >
+    <div class="container">
+      <a id="SEYNEKUN" class="navbar-brand"  [routerLink]="['/']">SEYNEKUN</a>
+      <a id="INICIO" class="navbar-brand "  [routerLink]="['/conocenos']">CONOCENOS</a> 
+      <li li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+      <a id="CONOCENOS" class="navbar-brand"  [routerLink]="['/productorRegistro']" > REGISTRAR PRODUCTORES</a>
+    </li>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target=".navbar-collapse"
+        aria-label="Toggle navigation"
+        [attr.aria-expanded]="isExpanded"
+        (click)="toggle()"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div
+        class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse"
+        [ngClass]="{ show: isExpanded }"
+      >
+        <ul class="navbar-nav flex-grow">
+          <li
+            class="nav-item"
+            [routerLinkActive]="['link-active']"
+            [routerLinkActiveOptions]="{ exact: true }"
+          >
+        
+          <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+            <a class="nav-link " [routerLink]="['/panelaRegistro']"
+            >Registro de produccion</a
+            >
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+            <a class="nav-link " [routerLink]="['/panelaConsulta']"
+            >Consultar produccion</a
+            >
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+            <a class="nav-link " [routerLink]="['/predioConsulta']"
+            >Predios</a
+            >
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="currentUser">
+            <a class="nav-link " [routerLink]="['/productorConsulta']"
+            >Productores</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+ 
+</header>
+

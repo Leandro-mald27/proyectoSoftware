@@ -1,0 +1,12 @@
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Release\netstandard2.1\Datos.deps.json
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Release\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Release\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Release\netstandard2.1\Entity.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Release\netstandard2.1\Entity.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Release\netstandard2.1\Datos.pdb

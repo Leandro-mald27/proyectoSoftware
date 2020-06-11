@@ -1,0 +1,84 @@
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\Proyecto2.0-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\leandro\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\leandro\Desktop\Proyecto\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\Proyecto\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\ProyectoWeb-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\leandro\Desktop\ProyectoNuevo-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\Gian Lucas\Desktop\webProyecto-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\User\Desktop\ProyectoNuevo2.0-master\Datos\obj\Debug\netstandard2.1\Datos.pdb

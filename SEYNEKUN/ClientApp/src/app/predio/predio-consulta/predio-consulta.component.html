@@ -1,0 +1,33 @@
+<div class="rowConsulta">
+    <div class="col-6">
+      <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Type to filter">
+    </div>
+   </div>
+     
+    
+    <table class="table table-striped" *ngIf='predios && predios.length'>
+      <thead>
+        <tr>
+          <th scope="col">No.</th>
+          <th scope="col">Codigo Registro</th>
+          <th scope="col">Nombre Predio</th>
+          <th scope="col">Codigo De ICA </th>
+          <th scope="col">Municipio</th>
+          <th scope="col">Vereda</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let predio of predios; index as i">
+          <th scope="row">{{ i + 1 }}</th>
+          <td>{{predio.codigo}}</td>
+          <td>{{predio.nombre}}</td>
+          <td>{{predio.codigoICA}}</td>
+          <td>{{predio.municipio}}</td>
+          <td>{{predio.vereda}}</td>
+          <td> 
+        </td>
+        </tr>
+      </tbody>
+    </table>
+  

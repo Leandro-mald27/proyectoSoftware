@@ -1,0 +1,56 @@
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Logica\obj\Debug\netstandard2.0\Logica.pdb

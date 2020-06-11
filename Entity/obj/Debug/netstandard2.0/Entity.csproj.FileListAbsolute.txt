@@ -1,0 +1,36 @@
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\PROYECTO SEYNEKUN\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\Proyecto-SEYNEKUN-master\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\Gian Lucas\Desktop\Proyecto-master\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\leandro\Desktop\proyecto-actualizado-master\Entity\obj\Debug\netstandard2.0\Entity.pdb

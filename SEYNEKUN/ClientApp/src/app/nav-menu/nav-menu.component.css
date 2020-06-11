@@ -1,0 +1,119 @@
+#SEYNEKUN{
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color:rgb(214, 33, 9);
+  font-weight: bold;
+  font-size: 15px;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+ background-color: rgb(227, 236, 227);
+}
+#SEYNEKUN:hover:not(.active) {
+  color:rgb(245, 13, 13)
+  
+}
+#INICIO  {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: rgb(16, 214, 9);
+  font-weight: bolder;
+  font-size: 15px; 
+   margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  background-color: rgb(227, 236, 227);
+}
+#INICIO:hover:not(.active) {
+  color:white;
+  
+}
+#CONOCENOS {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  list-style-type: none;
+  color: rgb(16, 214, 9);
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  font-size: 15px;
+  background-color: rgb(227, 236, 227);
+}
+#CONOCENOS:hover:not(.active) {
+  color:white;
+  
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar-nav .nav-item .nav-link{
+  list-style-type: none;
+  margin: 0;
+  padding: 12px;
+  overflow: hidden;
+  background-color: rgb(38, 165, 70);
+  
+}
+
+
+.nav-item .nav-link  {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+
+.nav-item .nav-link:hover:not(.active) {
+  background-color: rgb(74, 252, 4);
+  color:black;
+  
+}
+
+.nav-item{
+  color: white;
+}
+.navbar{
+  background-color:rgb(193, 245, 145);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    
+    top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+    width: 100%;
+   overflow: hidden;
+
+}
+.navbar-1{
+  background-color:rgba(190, 61, 61, 0.788);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    
+    top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+    width: 100%;
+   overflow: hidden;
+
+}
